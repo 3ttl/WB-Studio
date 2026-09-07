@@ -1,4 +1,5 @@
-<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/5a465afb-05a0-4a40-8b2e-1b39be3a40e5" />
+<img width="2560" height="363" alt="image" src="https://github.com/user-attachments/assets/67c62eda-77ce-43a6-948e-57e6986f449c" />
+
 
  WB Studio
 
