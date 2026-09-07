@@ -1,7 +1,7 @@
 <img width="2560" height="363" alt="image" src="https://github.com/user-attachments/assets/67c62eda-77ce-43a6-948e-57e6986f449c" />
 
 
- WB Studio
+ # WB Studio
 
 **用于 Western Blot 图片管理、条带定量、统计分析和实验资料导出的 Windows 桌面软件。**
 
