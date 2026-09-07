@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "如使用 WB Studio，请同时记录软件版本、ImageJ 版本和实际分析参数。正式仓库地址确定后会补充引用信息。"
+title: "WB Studio"
+type: software
+authors:
+  - family-names: "Wu"
+    given-names: "Mike"
+version: "0.8.2"
+abstract: "用于 Western Blot 图片管理、ImageJ 条带测量、灰度比值统计、内参上样估算及原始资料导出的 Windows 桌面软件。"
+license: PolyForm-Strict-1.0.0

@@ -1,0 +1,16 @@
+src/
+tests/
+build/
+data/
+internal*/
+release-assets/
+*.zip
+*.tar.gz
+*.exe
+*.dll
+*.pyc
+*.map
+*.sqlite*
+*.db
+*.log
+.env*
