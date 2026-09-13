@@ -5,6 +5,6 @@ type: software
 authors:
   - family-names: "Wu"
     given-names: "Mike"
-version: "0.8.2"
+version: "0.9.3"
 abstract: "用于 Western Blot 图片管理、ImageJ 条带测量、灰度比值统计、内参上样估算及原始资料导出的 Windows 桌面软件。"
 license: PolyForm-Strict-1.0.0
