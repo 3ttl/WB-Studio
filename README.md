@@ -1,5 +1,3 @@
-<img src="docs/images/wb-studio.png" alt="WB Studio 图标" width="96">
-
 # WB Studio
 
 <img width="2560" height="375" alt="WB Studio" src="https://github.com/user-attachments/assets/6252fd6b-d085-433f-8af0-bc4f8d0218e9" />
