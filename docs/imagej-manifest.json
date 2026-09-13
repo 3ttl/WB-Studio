@@ -1,0 +1,39 @@
+{
+  "imagejVersion": "1.54q",
+  "ijJarSha256": "b61b298ad7540309553e81eb0a769bd26267c77adbfe732be5ca51c7ff7257b6",
+  "imagejSource": "https://wsr.imagej.net/download/jars/ij.jar",
+  "algorithmVersion": "wb-imagej-1",
+  "javaVersion": "Temurin 21.0.12.1+1",
+  "javaSource": "https://github.com/adoptium/temurin21-binaries/releases/tag/jdk-21.0.12.1%2B1",
+  "jdkArchiveSha256": "f9d6e191ab098c0d416e7d588a24420a8621cd2f4720dab2459b8b7b2d2d8b4e",
+  "javaModules": [
+    "java.base",
+    "java.compiler",
+    "java.desktop",
+    "java.rmi",
+    "java.scripting"
+  ],
+  "platform": "windows-x64",
+  "integrity": {
+    "ij.jar": "b61b298ad7540309553e81eb0a769bd26267c77adbfe732be5ca51c7ff7257b6",
+    "classes/WBImageJBridge.class": "9cef3ffd5125d91f842255442e23777c5be107fc6678dbcc2ddf40f759f93dee",
+    "runtime/bin/java.exe": "82051fdab26319d77d20cc0065045d05ec00b3e3d05f44935d7c06b96b621d55",
+    "runtime/bin/server/jvm.dll": "3df13bd73c7dbeef26693cef664b4ede84649720f7a12f0203215a65656d25f4",
+    "runtime/lib/modules": "b1d7a9e915a8c4a51fe5fcabe1daae90ec1a69d17a4bfd0bf00782fb4364044a"
+  },
+  "bridgeSourceSha256": "507f15d83fbf3c4521e7490e7608e83b16737dc0cd2eedfc686383b2c25b961b",
+  "imagejSourceTag": "https://github.com/imagej/ImageJ/tree/v1.54q",
+  "jdkSources": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jdk-sources_21.0.12.1_1.tar.gz",
+  "runtimeModules": [
+    "java.base",
+    "java.compiler",
+    "java.datatransfer",
+    "java.xml",
+    "java.prefs",
+    "java.desktop",
+    "java.logging",
+    "java.rmi",
+    "java.scripting"
+  ],
+  "runtimeBytes": 48936805
+}
