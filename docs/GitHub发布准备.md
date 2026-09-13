@@ -1,8 +1,8 @@
 # GitHub 发布准备清单
 
-[返回 README](../README.md) · [许可说明](许可说明.md) · [v0.9.3 更新说明](RELEASE_NOTES_v0.9.3.md)
+[返回 README](../README.md) · [许可说明](许可说明.md) · [v0.9.4 更新说明](RELEASE_NOTES_v0.9.4.md)
 
-作者：Mike Wu。v0.9.3 公开内容为免费 Windows 程序及使用资料；WB Studio 项目源码、测试工程和构建工程暂不公开。程序采用 **PolyForm Strict License 1.0.0**。
+作者：Mike Wu。v0.9.4 公开内容为免费 Windows 程序及使用资料；WB Studio 项目源码、测试工程和构建工程暂不公开。程序采用 **PolyForm Strict License 1.0.0**。
 
 ## 上传到仓库根目录的内容
 
@@ -12,17 +12,17 @@
 
 ## Release 附件
 
-将 `release-assets` 文件夹中的两个文件添加到 GitHub Release `v0.9.3`：
+将 `release-assets` 文件夹中的两个文件添加到 GitHub Release `v0.9.4`：
 
-- `WB_Studio_v0.9.3_Windows_x64.zip`：Windows 10/11 x64 便携程序，普通使用者下载这一项。
+- `WB_Studio_v0.9.4_Windows_x64.zip`：Windows 10/11 x64 便携程序，普通使用者下载这一项。
 - `SHA256SUMS.txt`：安装包 SHA-256 校验值。
 
 本次不上传 WB Studio 源码，也不上传 Java、Python 或构建依赖的源码归档。程序包内保留运行所需的第三方组件许可和声明文件。
 
 ## 建议的 Release 信息
 
-- 标签：`v0.9.3`
-- 标题：`WB Studio v0.9.3（Windows 测试版）`
+- 标签：`v0.9.4`
+- 标题：`WB Studio v0.9.4（Windows 测试版）`
 - 勾选 **Pre-release**，因为这是测试版。
 - Release 正文可直接复制发布材料目录中的 `RELEASE_BODY.md`。
 

@@ -1,10 +1,12 @@
+<img src="docs/images/wb-studio.png" alt="WB Studio 图标" width="96">
+
 # WB Studio
 
 <img width="2560" height="375" alt="WB Studio" src="https://github.com/user-attachments/assets/6252fd6b-d085-433f-8af0-bc4f8d0218e9" />
 
 **用于 Western Blot 图片管理、条带定量、统计分析和实验资料导出的 Windows 桌面软件。**
 
-当前版本：**v0.9.3 · 测试版**  
+当前版本：**v0.9.4 · 测试版**  
 支持平台：Windows 10 / 11，64 位；当前界面语言为简体中文。
 
 作者与维护者：**Mike Wu**。
@@ -15,7 +17,7 @@ WB Studio 将原始图片、实验与蛋白标签、泳道分组、内参关系�
 
 图片在本机处理，原始文件保持不变；选框、标签、测量记录和绑定关系单独保存在本地。软件使用实际 **ImageJ 1.54q** 完成分析副本的像素测量。
 
-[完整使用指南](docs/用户使用指南.md) · [v0.9.3 更新说明](docs/v0.9.3更新说明.md) · [GitHub 发布准备清单](docs/GitHub发布准备.md)
+[完整使用指南](docs/用户使用指南.md) · [v0.9.4 更新说明](docs/v0.9.4更新说明.md) · [GitHub 发布准备清单](docs/GitHub发布准备.md)
 
 ## 写在最前
 
@@ -56,7 +58,7 @@ P.S. 作为自己发布的第一个作品，还是有点小紧张的，望大家
 
 ## 下载与启动
 
-正式发布后，请在本仓库的 **Releases** 中下载 Windows 便携包，例如 `WB_Studio_v0.9.3_Windows_x64.zip`。GitHub 自动生成的 `Source code (zip)` 仅是介绍与使用文档仓库的快照，不包含 WB Studio 项目源码，也不是 Windows 程序包。请通过本仓库的 Releases 入口获取实际附件；发布页建立前，本文件仅为本地发布候选。
+正式发布后，请在本仓库的 **Releases** 中下载 Windows 便携包，例如 `WB_Studio_v0.9.4_Windows_x64.zip`。GitHub 自动生成的 `Source code (zip)` 仅是介绍与使用文档仓库的快照，不包含 WB Studio 项目源码，也不是 Windows 程序包。请通过本仓库的 Releases 入口获取实际附件；发布页建立前，本文件仅为本地发布候选。
 
 运行环境：
 
@@ -239,7 +241,7 @@ WB Studio 内置实际 ImageJ 引擎，可选择 8-bit 兼容模式或原始位�
 
 ## 许可与致谢
 
-WB Studio v0.9.3 免费提供，采用 [PolyForm Strict License 1.0.0](LICENSE)，允许原文范围内的非商业使用，不授权他人修改或再次分发程序。其列明的教育、公共科研等机构使用条款不受资助来源限制，详见 [中文许可说明](docs/许可说明.md)。项目源码暂不公开；第三方组件仍按各自许可分发。
+WB Studio v0.9.4 免费提供，采用 [PolyForm Strict License 1.0.0](LICENSE)，允许原文范围内的非商业使用，不授权他人修改或再次分发程序。其列明的教育、公共科研等机构使用条款不受资助来源限制，详见 [中文许可说明](docs/许可说明.md)。项目源码暂不公开；第三方组件仍按各自许可分发。
 
 感谢 ImageJ 及其他第三方组件。组件许可独立保留，详见：
 
@@ -248,3 +250,5 @@ WB Studio v0.9.3 免费提供，采用 [PolyForm Strict License 1.0.0](LICENSE)�
 - [ImageJ 版本与校验清单](docs/imagej-manifest.json)
 
 首次公开发布所需的仓库信息、许可证、安装包、素材与检查项见 [GitHub 发布准备清单](docs/GitHub发布准备.md)。
+
+
